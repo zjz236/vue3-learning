@@ -1,0 +1,1 @@
+import o from"./TeleportChild.a82f4db5.js";import{g as e,r,o as t,c as l,a as p}from"./app.2e904f8f.js";const s=e({components:{TeleportChild:o}}),n={id:"teleport-box"},a=p("strong",null,"这里是TeleportBox组件",-1);s.render=function(o,e,s,d,i,f){const c=r("TeleportChild");return t(),l("div",n,[a,p(c)])};export default s;

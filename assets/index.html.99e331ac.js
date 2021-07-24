@@ -1,0 +1,1 @@
+const e={key:"v-2d26438b",path:"/teleport/",title:"Teleport",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Teleport的使用",slug:"teleport的使用",children:[]}],filePathRelative:"teleport/README.md",git:{updatedTime:1627036629e3,contributors:[{name:"joe.zhu",email:"Zjz1236@",commits:1}]}};export{e as data};

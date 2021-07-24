@@ -1,0 +1,1 @@
+const e={key:"v-be558f3c",path:"/responsive/",title:"Vue2.x和Vue3.x响应式对比",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Vue2.x",slug:"vue2-x",children:[]},{level:2,title:"Vue3.x",slug:"vue3-x",children:[]}],filePathRelative:"responsive/README.md",git:{updatedTime:1627036629e3,contributors:[{name:"joe.zhu",email:"Zjz1236@",commits:1}]}};export{e as data};
