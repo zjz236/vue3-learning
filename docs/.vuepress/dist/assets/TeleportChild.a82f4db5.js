@@ -1,0 +1,1 @@
+import{p as a,f as d,o as e,c as t,T as o,w as s,a as c}from"./app.2e904f8f.js";const p={name:"TeleportChild"},l=s();a("data-v-5607c9d8");const r=c("div",{id:"child"},"我是TeleportChild组件",-1);d();const i=l(((a,d,s,c,p,l)=>(e(),t(o,{to:"#teleport-child"},[r]))));p.render=i,p.__scopeId="data-v-5607c9d8";export default p;

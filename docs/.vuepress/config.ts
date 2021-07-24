@@ -31,6 +31,7 @@ module.exports = {
       }
     ],
   },
+  bundler: '@vuepress/vite',
   plugins: [
     [
       '@vuepress/register-components',

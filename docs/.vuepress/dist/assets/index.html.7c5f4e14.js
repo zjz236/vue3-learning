@@ -1,0 +1,1 @@
+const e={key:"v-a774cc0e",path:"/difference/",title:"简单描述Vue3.x和Vue2.x的区别",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"其它区别",slug:"其它区别",children:[]}],filePathRelative:"difference/README.md",git:{updatedTime:1627036629e3,contributors:[{name:"joe.zhu",email:"Zjz1236@",commits:1}]}};export{e as data};

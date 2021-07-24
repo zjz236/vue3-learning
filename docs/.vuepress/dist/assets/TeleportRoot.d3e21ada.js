@@ -1,0 +1,1 @@
+import{o,c as t,a as e}from"./app.2e904f8f.js";const r={},l={id:"teleport-root"},n=e("strong",null,"这里是TeleportRoot组件",-1),d=e("div",{id:"teleport-child"},null,-1);r.render=function(e,r){return o(),t("div",l,[n,d])};export default r;
